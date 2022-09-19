@@ -10,6 +10,12 @@ public class WindowPopUp {
 		driver.get("http://admin:admin@the-internet.herokuapp.com/basic_auth");	
 		System.out.println("Test 1st line added to update 1.1 GitHub");
 		System.out.println("Test 2nd line added to update 1.1 GitHub");
+		//
+		//
+		// now more steps
+		System.out.println("Test 1st line added to update 1.2 GitHub");
+		System.out.println("Test 2nd line added to update 1.2 GitHub");
+		System.out.println("Test 3rd line added to update 1.2 GitHub");
 		
 	}
 }
