@@ -16,6 +16,10 @@ public class WindowPopUp {
 		System.out.println("Test 1st line added to update 1.2 GitHub");
 		System.out.println("Test 2nd line added to update 1.2 GitHub");
 		System.out.println("Test 3rd line added to update 1.2 GitHub");
+		//
+		// update to develop branch
+		System.out.println("Test 1st line added to update 1.2.1 GitHub");
+
 		
 	}
 }
